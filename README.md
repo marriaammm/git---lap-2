@@ -1,7 +1,7 @@
 -How to Remove Branches
-##Locally
+-Locally
 git branch -d test
-## Remotely
+-Remotely
 git push origin --delete dev
 _________________________________
 -Annotated Tags and Lightweight Tags
