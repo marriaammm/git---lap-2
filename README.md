@@ -1,4 +1,4 @@
-## How to Remove Branches
+### How to Remove Branches
 **Locally**
 git branch -d test
 ## Remotely
